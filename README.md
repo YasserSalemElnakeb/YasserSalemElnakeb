@@ -243,6 +243,9 @@ Forecasting, regression, and statistical analysis that turn history into foresig
 
 <h2 align="center">🌍 Business Domains</h2>
 
+<!-- Section Illustration: Business Domains -->
+<p align="center"><img src="assets/images/business-domains.png" width="72" alt="Business Domains"/></p>
+
 <!-- Animated Domain Rotator -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=400&color=00E5C3&center=true&vCenter=true&width=560&lines=Retail+%E2%80%A2+Banking+%E2%80%A2+HR+%E2%80%A2+Sales+%E2%80%A2+Marketing;Operations+%E2%80%A2+Finance+%E2%80%A2+Healthcare+%E2%80%A2+Supply+Chain" alt="domain rotator" />
@@ -400,6 +403,9 @@ from raw transactional data to executive-ready decision dashboards.
 
 <h2 align="center">📂 Featured Projects</h2>
 
+<!-- Section Illustration: Featured Projects -->
+<p align="center"><img src="assets/images/featured-projects.png" width="72" alt="Featured Projects"/></p>
+
 <table align="center" width="100%">
 
 <!-- Project Card 1: HR Analytics Dashboard -->
@@ -545,6 +551,9 @@ from raw transactional data to executive-ready decision dashboards.
 
 <h2 align="center">🎓 Certifications</h2>
 
+<!-- Section Illustration: Certifications -->
+<p align="center"><img src="assets/images/certifications.png" width="72" alt="Certifications"/></p>
+
 <!-- Animated Certificate Accent -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00C896&center=true&vCenter=true&width=480&lines=%F0%9F%8E%93+Diploma-Certified+%E2%80%A2+Project-Tested" alt="certificate accent" />
@@ -595,6 +604,9 @@ I mastered these skills not through theory alone, but through **extensive, pract
 
 <h2 align="center">🤖 Automation & AI Workflows</h2>
 
+<!-- Section Illustration: Automation & AI -->
+<p align="center"><img src="assets/images/automation-ai.png" width="72" alt="Automation and AI"/></p>
+
 <p align="center">
 I design complete <b>business automation systems</b> that connect data, tools, and decisions — so teams spend less time on repetitive tasks and more time acting on insight.
 </p>
@@ -633,29 +645,32 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
+<!-- Section Illustration: GitHub Analytics -->
+<p align="center"><img src="assets/images/github-analytics.png" width="72" alt="GitHub Analytics"/></p>
+
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&icon_color=00C896&text_color=FFFFFF&ring_color=00E5C3" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YasserSalemElnakeb&show_icons=true&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&icon_color=00C896&text_color=FFFFFF&ring_color=00E5C3" width="48%"/>
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserSalemElnakeb&layout=compact&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&text_color=FFFFFF" width="48%"/>
 
 <br/><br/>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true&background=151A28&stroke=00E5C3&ring=00C896&fire=00FFC8&currStreakLabel=00FFC8" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=YasserSalemElnakeb&theme=dark&hide_border=true&background=151A28&stroke=00E5C3&ring=00C896&fire=00FFC8&currStreakLabel=00FFC8" width="70%"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=151A28&color=00FFC8&line=00C896&point=FFFFFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasserSalemElnakeb&theme=react-dark&bg_color=151A28&color=00FFC8&line=00C896&point=FFFFFF&hide_border=true" width="90%"/>
 
 <br/><br/>
 
 <!-- Visitor Counter & Follower Badges -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00C896&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=00E5C3&labelColor=151A28"/>
-<img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&color=00FFC8&labelColor=151A28"/>
+<img src="https://komarev.com/ghpvc/?username=YasserSalemElnakeb&label=Profile%20Views&color=00C896&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YasserSalemElnakeb?label=Followers&style=for-the-badge&color=00E5C3&labelColor=151A28"/>
+<img src="https://img.shields.io/github/stars/YasserSalemElnakeb?label=Stars&style=for-the-badge&color=00FFC8&labelColor=151A28"/>
 
 </div>
 
@@ -668,10 +683,13 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
+<!-- Section Illustration: GitHub Trophies -->
+<p align="center"><img src="assets/images/github-trophies.png" width="72" alt="GitHub Trophies"/></p>
+
 <div align="center">
 
 <!-- Trophy Widget -->
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true&title.color=00FFC8&background=151A28&border=00C896" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YasserSalemElnakeb&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true&title.color=00FFC8&background=151A28&border=00C896" width="90%"/>
 
 </div>
 
@@ -698,6 +716,9 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 
 <h2 align="center">📬 Let's Connect</h2>
 
+<!-- Section Illustration: Contact -->
+<p align="center"><img src="assets/images/contact.png" width="72" alt="Let's Connect"/></p>
+
 <!-- Animated Contact Prompt -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00E5C3&center=true&vCenter=true&width=460&lines=%E2%86%93+Reach+out+anytime+%E2%86%93" alt="contact prompt" />
@@ -706,12 +727,39 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 <!-- Contact Buttons -->
 <div align="center">
 
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-151A28?style=for-the-badge&logo=github&logoColor=00FFC8"/></a>
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-151A28?style=for-the-badge&logo=linkedin&logoColor=00C896"/></a>
+<a href="https://github.com/YasserSalemElnakeb"><img src="https://img.shields.io/badge/GitHub-151A28?style=for-the-badge&logo=github&logoColor=00FFC8"/></a>
+<a href="https://linkedin.com/in/YasserSalemElnakeb"><img src="https://img.shields.io/badge/LinkedIn-151A28?style=for-the-badge&logo=linkedin&logoColor=00C896"/></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-151A28?style=for-the-badge&logo=gmail&logoColor=00E5C3"/></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-151A28?style=for-the-badge&logo=vercel&logoColor=00FFC8"/></a>
 
 </div>
+
+<br/>
+
+<!-- ================================================================== -->
+<!-- IMAGE ASSETS DOCUMENTATION (for maintainers — collapsed by default) -->
+<!-- ================================================================== -->
+
+<details>
+<summary>📁 Image Assets Reference (click to expand)</summary>
+
+<br/>
+
+All section illustrations below are sourced from **GitHub's own official emoji CDN** (`github.githubassets.com`) — the same assets GitHub uses to render emoji in every README on the platform, so they are effectively guaranteed to stay online.
+
+| Section | Local Path | Source URL | Reason |
+|---|---|---|---|
+| Business Domains | `assets/images/business-domains.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png?v8` | Office building — represents cross-industry business presence |
+| Featured Projects | `assets/images/featured-projects.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png?v8` | Bar chart — dashboard/reporting visual |
+| Certifications | `assets/images/certifications.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8` | Graduation cap — professional credential visual |
+| Automation & AI Workflows | `assets/images/automation-ai.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8` | Robot — AI/automation visual |
+| GitHub Analytics | `assets/images/github-analytics.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png?v8` | Chart increasing — analytics/growth visual |
+| GitHub Trophies | `assets/images/github-trophies.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8` | Trophy — achievement visual |
+| Let's Connect | `assets/images/contact.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8` | Handshake — communication/connection visual |
+
+**Setup:** download each source URL above and save it under `/assets/images/` in this repo using the filename shown, so the README renders from local files instead of external calls.
+
+</details>
 
 <br/>
 
