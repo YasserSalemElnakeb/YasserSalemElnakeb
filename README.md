@@ -31,7 +31,7 @@
 
 ```yaml
 profile:
-  name: "Your Name"
+  name: "Yasser Salem Elnakeb"
   role: "Data Analyst & Business Intelligence Developer"
   location: "🌍 Available Worldwide (Remote)"
   experience: "2+ Years of Practical & Project-Based Experience"
@@ -227,20 +227,20 @@ from raw transactional data to executive-ready decision dashboards.
 
 <div align="center">
 
-**Power BI** `████████████████████░░` 90%
-**SQL** `███████████████████░░░` 88%
-**Python** `██████████████████░░░░` 85%
+**Power BI** `████████████████████░░` 100%
+**SQL** `███████████████████░░░` 100%
+**Python** `██████████████████░░░░` 93%
 **Excel** `████████████████████░░` 92%
-**DAX** `██████████████████░░░░` 85%
-**Power Query** `█████████████████░░░░░` 82%
-**Statistics** `████████████████░░░░░░` 78%
+**DAX** `██████████████████░░░░` 100%
+**Power Query** `█████████████████░░░░░` 100%
+**Statistics** `████████████████░░░░░░` 100%
 **Automation (n8n / AI)** `█████████████████░░░░░` 83%
 **Business Intelligence** `████████████████████░░` 90%
-**Data Visualization** `████████████████████░░` 91%
-**Data Modeling** `██████████████████░░░░` 85%
-**Dashboard Design** `████████████████████░░` 93%
+**Data Visualization** `████████████████████░░` 95%
+**Data Modeling** `██████████████████░░░░` 100%
+**Dashboard Design** `████████████████████░░` 96%
 **Problem Solving** `████████████████████░░` 92%
-**Business Understanding** `███████████████████░░░` 88%
+**Business Understanding** `███████████████████░░░` 100%
 
 </div>
 
@@ -526,7 +526,7 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 
 ### Thank you for visiting! 🚀
 
-**Designed with ❤️ by Your Name**
+**Designed By Yasser Salem Elnakeb❤️**
 
 </div>
 
