@@ -1,14 +1,19 @@
 <!-- ================================================================== -->
-<!-- HERO SECTION -->
+<!-- HERO SECTION — Animated Gradient Wave + Floating Typing Entrance -->
 <!-- ================================================================== -->
 <div align="center">
 
-<!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:00C896&height=220&section=header&text=Yasser%20Salem%20Elnakeb&fontSize=52&fontColor=00FFC8&animation=fadeIn&fontAlignY=38&desc=Turning%20Raw%20Data%20Into%20Business%20Impact&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
+<!-- Animated Hero Banner (Capsule Render — gradient wave entrance) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E293B,70:00C896,100:00FFC8&height=230&section=header&text=Yasser%20Salem%20Elnakeb&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Turning%20Raw%20Data%20Into%20Business%20Impact&descAlignY=56&descSize=18&descColor=00FFC8" width="100%"/>
 
-<!-- Animated Typing -->
+<!-- Animated Typing — Role Rotator -->
 <a href="#">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFC8&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Intelligence+Developer;Power+BI+Expert;SQL+Developer;Python+Developer;Automation+Engineer;AI+Workflow+Builder" alt="Typing SVG" />
+</a>
+
+<!-- Micro Animation — Floating Scroll Indicator -->
+<a href="#about-me">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=400&color=00C896&center=true&vCenter=true&width=200&height=30&lines=%E2%86%93+scroll+%E2%86%93;+" alt="scroll indicator" />
 </a>
 
 <br/>
@@ -20,18 +25,21 @@
 
 </div>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 1 — Soft Gradient Wave (Capsule Render) -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5C3,100:0F172A&height=90&reversal=false" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- ABOUT ME SECTION -->
 <!-- ================================================================== -->
 
 <h2 align="center">👤 About Me</h2>
+
+<!-- Animated Frame Accent — Soft Glow Intro Line -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=600&color=00E5C3&center=true&vCenter=true&width=480&lines=%F0%9F%9F%A2+Available+for+new+projects;%F0%9F%92%BC+Open+to+freelance+work;%E2%9C%A8+Let%27s+build+something+great" alt="status line" />
+</div>
+
+<br/>
 
 <!-- About Cards -->
 <table align="center" width="100%">
@@ -103,12 +111,8 @@ Cloud Data Warehousing
 </tr>
 </table>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 2 — Rounded Capsule Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:151A28,100:00C896&height=70" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- WHAT I DO SECTION -->
@@ -160,18 +164,21 @@ Forecasting, regression, and statistical analysis that turn history into foresig
 </tr>
 </table>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 3 — Slice Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FFC8,100:151A28&height=80" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- TECH STACK SECTION -->
 <!-- ================================================================== -->
 
 <h2 align="center">🛠️ My Tech Stack</h2>
+
+<!-- Animated Category Rotator -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FFC8&center=true&vCenter=true&width=520&lines=BI+Platforms+%E2%9A%A1+Languages+%E2%9A%A1+Automation+%E2%9A%A1+AI" alt="stack rotator" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -227,18 +234,21 @@ Forecasting, regression, and statistical analysis that turn history into foresig
 
 </div>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 4 — Curve Divider -->
+<img src="https://capsule-render.vercel.app/api?type=curve&color=0:0F172A,100:00C896&height=90&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- BUSINESS DOMAINS SECTION -->
 <!-- ================================================================== -->
 
 <h2 align="center">🌍 Business Domains</h2>
+
+<!-- Animated Domain Rotator -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=400&color=00E5C3&center=true&vCenter=true&width=560&lines=Retail+%E2%80%A2+Banking+%E2%80%A2+HR+%E2%80%A2+Sales+%E2%80%A2+Marketing;Operations+%E2%80%A2+Finance+%E2%80%A2+Healthcare+%E2%80%A2+Supply+Chain" alt="domain rotator" />
+</div>
+
+<br/>
 
 <!-- Business Domains Grid -->
 <table align="center" width="100%">
@@ -265,18 +275,21 @@ No matter the industry, I can build a <b>complete analytics system</b> around it
 from raw transactional data to executive-ready decision dashboards.
 </p>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 5 — Blur Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00FFC8,100:1E293B&height=85" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- WHAT I CAN BUILD SECTION -->
 <!-- ================================================================== -->
 
 <h2 align="center">🚀 What I Can Build</h2>
+
+<!-- Animated Capability Rotator -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00FFC8&center=true&vCenter=true&width=560&lines=Dashboards+%E2%9A%A1+Pipelines+%E2%9A%A1+Automation+%E2%9A%A1+AI+Agents" alt="capability rotator" />
+</div>
+
+<br/>
 
 <table align="center" width="100%">
 <tr>
@@ -350,12 +363,8 @@ from raw transactional data to executive-ready decision dashboards.
 </tr>
 </table>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 6 — Cylinder Divider -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:151A28,100:00E5C3&height=75" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- SKILLS OVERVIEW SECTION -->
@@ -382,12 +391,8 @@ from raw transactional data to executive-ready decision dashboards.
 
 </div>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 7 — Rect Solid Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C896,100:0F172A&height=8" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- FEATURED PROJECTS SECTION -->
@@ -531,18 +536,21 @@ from raw transactional data to executive-ready decision dashboards.
 
 <p align="center"><i>📌 Note: Project preview images are placeholders — replace the <code>placehold.co</code> URLs above with your own uploaded dashboard screenshots, and swap the Live Demo links to your real published reports.</i></p>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 8 — Waving Divider (Reversed) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:00FFC8&height=80&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- CERTIFICATIONS SECTION -->
 <!-- ================================================================== -->
 
 <h2 align="center">🎓 Certifications</h2>
+
+<!-- Animated Certificate Accent -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00C896&center=true&vCenter=true&width=480&lines=%F0%9F%8E%93+Diploma-Certified+%E2%80%A2+Project-Tested" alt="certificate accent" />
+</div>
+
+<br/>
 
 <table align="center" width="100%">
 <tr>
@@ -578,12 +586,8 @@ I mastered these skills not through theory alone, but through **extensive, pract
 </tr>
 </table>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 9 — Soft Divider (Reversed, Violet-Cyan) -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5C3,100:151A28&height=75&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- AUTOMATION & AI WORKFLOWS SECTION -->
@@ -594,6 +598,13 @@ I mastered these skills not through theory alone, but through **extensive, pract
 <p align="center">
 I design complete <b>business automation systems</b> that connect data, tools, and decisions — so teams spend less time on repetitive tasks and more time acting on insight.
 </p>
+
+<!-- Animated Workflow Pipeline -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2600&pause=500&color=00FFC8&center=true&vCenter=true&width=620&lines=Trigger+%E2%9A%A1+Process+%F0%9F%94%84+AI+Agent+%F0%9F%A4%96+Action+%E2%9C%85+Done" alt="automation pipeline" />
+</div>
+
+<br/>
 
 <!-- Automation Grid -->
 <table align="center" width="100%">
@@ -613,15 +624,11 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 </tr>
 </table>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 10 — Rounded Divider (Reversed) -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C896,100:0F172A&height=75&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
-<!-- GITHUB ANALYTICS SECTION -->
+<!-- GITHUB ANALYTICS SECTION — Dashboard-Style Layout -->
 <!-- ================================================================== -->
 
 <h2 align="center">📈 GitHub Analytics</h2>
@@ -652,7 +659,8 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 
 </div>
 
-<br/>
+<!-- Section Transition 11 — Slice Divider (Reversed) -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:00E5C3&height=75&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- GITHUB TROPHIES SECTION -->
@@ -667,12 +675,8 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 
 </div>
 
-<br/>
-
-<!-- Glowing Section Divider -->
-<img src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gradient-divider.png" width="100%" height="4"/>
-
-<br/>
+<!-- Section Transition 12 — Curve Divider -->
+<img src="https://capsule-render.vercel.app/api?type=curve&color=0:00FFC8,100:151A28&height=70" width="100%"/>
 
 <!-- ================================================================== -->
 <!-- QUOTE SECTION -->
@@ -694,6 +698,11 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 
 <h2 align="center">📬 Let's Connect</h2>
 
+<!-- Animated Contact Prompt -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00E5C3&center=true&vCenter=true&width=460&lines=%E2%86%93+Reach+out+anytime+%E2%86%93" alt="contact prompt" />
+</div>
+
 <!-- Contact Buttons -->
 <div align="center">
 
@@ -707,16 +716,17 @@ I design complete <b>business automation systems</b> that connect data, tools, a
 <br/>
 
 <!-- ================================================================== -->
-<!-- FOOTER SECTION -->
+<!-- FOOTER SECTION — Animated Wave + Rocket Sign-Off -->
 <!-- ================================================================== -->
 
 <div align="center">
 
-### Thank you for visiting! 🚀
+<!-- Animated Rocket Sign-Off -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=600&color=00FFC8&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Thanks+for+stopping+by+%F0%9F%9A%80" alt="rocket sign-off" />
 
 **Designed with ❤️ by Yasser Salem Elnakeb**
 
 </div>
 
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:1E293B,100:0F172A&height=150&section=footer" width="100%"/>
+<!-- Animated Wave Footer (Capsule Render — gradient close) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:00C896&height=150&section=footer" width="100%"/>
