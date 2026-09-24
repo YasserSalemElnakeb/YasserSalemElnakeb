@@ -22,15 +22,15 @@
 <br/><br/>
 
 <a href="https://yasser-salem.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Yasser%20Salem-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
+</a>
 
-<a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237">
-<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:yassersalemelnakeb123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00E5A8"/>
+  <img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00E5A8" alt="Email"/>
 </a>
 
 </div>
@@ -781,16 +781,16 @@ A dashboard project focused on analyzing YouTube-related performance data and pr
 
 <br/><br/>
 
-<a href="https://github.com/YasserSalemElnakeb">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="https://yasser-salem.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237">
-<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:yassersalemelnakeb123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00E5A8"/>
+  <img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00E5A8" alt="Email"/>
 </a>
 
 </div>
