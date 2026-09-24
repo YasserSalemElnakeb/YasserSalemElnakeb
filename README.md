@@ -1,780 +1,805 @@
 <!-- ================================================================== -->
-<!-- HERO SECTION — Animated Gradient Wave + Floating Typing Entrance -->
+<!-- HERO SECTION -->
 <!-- ================================================================== -->
+
 <div align="center">
 
-<!-- Animated Hero Banner (Capsule Render — gradient wave entrance) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E293B,70:00C896,100:00FFC8&height=230&section=header&text=Yasser%20Salem%20Elnakeb&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Turning%20Raw%20Data%20Into%20Business%20Impact&descAlignY=56&descSize=18&descColor=00FFC8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E293B,70:00C896,100:00FFC8&height=230&section=header&text=Yasser%20Salem%20Elnakeb&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20Turning%20Data%20Into%20Business%20Insight&descAlignY=56&descSize=18&descColor=00FFC8" width="100%"/>
 
-<!-- Animated Typing — Role Rotator -->
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFC8&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Intelligence+Developer;Power+BI+Expert;SQL+Developer;Python+Developer;Automation+Engineer;AI+Workflow+Builder" alt="Typing SVG" />
-</a>
-
-<!-- Micro Animation — Floating Scroll Indicator -->
-<a href="#about-me">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=400&color=00C896&center=true&vCenter=true&width=200&height=30&lines=%E2%86%93+scroll+%E2%86%93;+" alt="scroll indicator" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00FFC8&center=true&vCenter=true&width=760&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Tableau+%7C+Power+Query+%7C+DAX;Building+Business-Focused+Analytics" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Hero Buttons -->
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00E5C3?style=for-the-badge&logo=briefcase&logoColor=0F172A&labelColor=151A28" />
-<img src="https://img.shields.io/badge/FREELANCE-AVAILABLE-00C896?style=for-the-badge&logo=upwork&logoColor=0F172A&labelColor=151A28" />
-<img src="https://img.shields.io/badge/BASED%20IN-Earth🌍-00FFC8?style=for-the-badge&labelColor=151A28" />
+<a href="https://github.com/YasserSalemElnakeb">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-151A28?style=for-the-badge&logo=github&logoColor=00FFC8"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-151A28?style=for-the-badge&logo=linkedin&logoColor=00C896"/>
+</a>
 
-<!-- Section Transition 1 — Soft Gradient Wave (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5C3,100:0F172A&height=90&reversal=false" width="100%"/>
+<a href="mailto:yassersalemelnakeb123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-151A28?style=for-the-badge&logo=gmail&logoColor=00E5C3"/>
+</a>
 
-<!-- ================================================================== -->
-<!-- ABOUT ME SECTION -->
-<!-- ================================================================== -->
-
-<h2 align="center">👤 About Me</h2>
-
-<!-- Animated Frame Accent — Soft Glow Intro Line -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=600&color=00E5C3&center=true&vCenter=true&width=480&lines=%F0%9F%9F%A2+Available+for+new+projects;%F0%9F%92%BC+Open+to+freelance+work;%E2%9C%A8+Let%27s+build+something+great" alt="status line" />
 </div>
 
 <br/>
 
-<!-- About Cards -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5C3,100:0F172A&height=80" width="100%"/>
+
+
+<!-- ================================================================== -->
+<!-- ABOUT ME -->
+<!-- ================================================================== -->
+
+<h2 align="center">👋 About Me</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=700&color=00E5C3&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Analytics+%7C+Business+Intelligence;From+Raw+Data+to+Clear+Business+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+%7C+Tableau" alt="About animation"/>
+
+</div>
+
+<br/>
+
 <table align="center" width="100%">
 <tr>
+
 <td align="center" width="25%">
 
-**📍 Location**
+📍  
+**Location**
+
 <br/>
-Available Worldwide
-<br/>
-(Remote)
+
+Qena, Egypt  
+**Open to Relocation**
 
 </td>
+
 <td align="center" width="25%">
 
-**🧭 Experience**
+🎯  
+**Target Role**
+
 <br/>
-2+ Years
-<br/>
-Project-Based
+
+**Data Analyst**
 
 </td>
+
 <td align="center" width="25%">
 
-**🎯 Specialization**
+📊  
+**Focus**
+
 <br/>
+
+Data Analysis  
 Business Intelligence
-<br/>
-& Automation
 
 </td>
+
 <td align="center" width="25%">
 
-**📚 Currently Learning**
+🎓  
+**Background**
+
 <br/>
-AI Agent Orchestration
-<br/>
-Cloud Data Warehousing
+
+Computer Engineering  
+Data Analysis Diploma
 
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<!-- Availability Row -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-00E5C3?style=for-the-badge&labelColor=151A28"/>
-<img src="https://img.shields.io/badge/Freelance-Available-00C896?style=for-the-badge&labelColor=151A28"/>
-<img src="https://img.shields.io/badge/Focus-BI%20·%20Automation%20·%20Analytics%20·%20AI-00FFC8?style=for-the-badge&labelColor=151A28"/>
-
-</div>
-
-<br/>
-
-<!-- About Me Summary Card -->
 <table align="center" width="100%">
 <tr>
 <td>
 
-> I specialize in transforming **raw, messy data** into **clear business insight** — the kind that drives real decisions, not just pretty charts.
+> I am a **Data Analyst** with a Computer Engineering background and practical training in data analysis.
 >
-> My work spans the full analytics lifecycle: designing **interactive dashboards** that executives actually use, building **AI-powered workflows** that remove repetitive work, engineering **automation systems** that save hours every week, and architecting **complete Business Intelligence ecosystems** — from raw data to boardroom-ready reporting.
+> I work with **Power BI, SQL, Python, Excel, Tableau, Power Query and DAX** to transform raw data into structured analysis, interactive dashboards and business-focused insights.
 >
-> I don't just build reports. I build **decision infrastructure.**
+> My portfolio includes projects covering **sales, supply chain, customer behavior, HR, finance, call center operations, web scraping and analytics dashboards**.
+>
+> I focus on understanding the business question first, then using data to build a clear and useful analytical solution.
 
 </td>
 </tr>
 </table>
 
-<!-- Section Transition 2 — Rounded Capsule Divider -->
+
+<!-- ================================================================== -->
+<!-- EXPERIENCE & TRAINING -->
+<!-- ================================================================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:151A28,100:00C896&height=70" width="100%"/>
 
-<!-- ================================================================== -->
-<!-- WHAT I DO SECTION -->
-<!-- ================================================================== -->
+<h2 align="center">💼 Experience & Training</h2>
 
-<h2 align="center">🚀 What I Do</h2>
+<table align="center" width="100%">
 
-<!-- Service Card: BI & Dashboards -->
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Data Analysis Diploma
+
+**Mazen Analytics**
+
+Practical training covering:
+
+- Statistics
+- Excel for Data Analysis
+- Business Basics
+- SQL for Data Analysis
+- Power BI
+- Tableau
+- Python for Data Analysis
+- Freelancing
+- n8n & Automation
+
+The training was supported by practical projects and hands-on analytical work.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Web Designer / Front-End Developer Trainee
+
+**National Telecommunication Institute (NTI)**
+
+Training focused on:
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Responsive Web Design
+- Front-End Development
+
+🎓 Graduation Project:
+
+**Hospital Management Website**
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
 <table align="center" width="100%">
 <tr>
-<td width="25%" valign="top" align="center">
+<td>
 
-### 📊
-**BI & Dashboards**
-<br/><br/>
-Interactive Power BI & Excel dashboards designed for real decision-making, not just visuals.
+### 🌍 International Tour Leader & Operations Coordinator
 
-</td>
+Professional experience involving:
 
-<!-- Service Card: Data Engineering -->
-<td width="25%" valign="top" align="center">
+- Airport and hotel transfers
+- Trip and destination coordination
+- Guest communication and support
+- Transportation coordination
+- Hotel and destination feedback
+- Working with international guests
+- Operational problem solving
 
-### 🗄️
-**Data Engineering**
-<br/><br/>
-SQL databases, ETL pipelines, and clean data models built on solid star-schema foundations.
-
-</td>
-
-<!-- Service Card: Automation -->
-<td width="25%" valign="top" align="center">
-
-### ⚙️
-**Automation Systems**
-<br/><br/>
-n8n workflows and AI agents that remove repetitive manual work from daily operations.
-
-</td>
-
-<!-- Service Card: Analytics -->
-<td width="25%" valign="top" align="center">
-
-### 🧠
-**Applied Analytics**
-<br/><br/>
-Forecasting, regression, and statistical analysis that turn history into foresight.
+This experience strengthened my communication, coordination and problem-solving skills alongside my technical background.
 
 </td>
 </tr>
 </table>
 
-<!-- Section Transition 3 — Slice Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FFC8,100:151A28&height=80" width="100%"/>
 
 <!-- ================================================================== -->
-<!-- TECH STACK SECTION -->
+<!-- EDUCATION -->
 <!-- ================================================================== -->
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FFC8,100:151A28&height=70" width="100%"/>
 
-<!-- Animated Category Rotator -->
+<h2 align="center">🎓 Education</h2>
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FFC8&center=true&vCenter=true&width=520&lines=BI+Platforms+%E2%9A%A1+Languages+%E2%9A%A1+Automation+%E2%9A%A1+AI" alt="stack rotator" />
+
+### AlSafwa High Institute Of Engineering
+
+**Bachelor's Degree in Computer Engineering**
+
+**October 2020 – July 2025**
+
+Overall Grade: **Good**
+
+🎓 Graduation Project:  
+**Learning Management System Website (LMS)**
+
+Graduation Project Grade: **Excellent**
+
 </div>
 
-<br/>
+
+<!-- ================================================================== -->
+<!-- TECH STACK -->
+<!-- ================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:151A28,100:00E5C3&height=70" width="100%"/>
+
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
 
-<!-- BI Platforms -->
-<b>Data & BI Platforms</b>
-<br/>
+### 📊 Data & BI
+
 <img src="https://img.shields.io/badge/Power%20BI-151A28?style=for-the-badge&logo=powerbi&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/Excel-151A28?style=for-the-badge&logo=microsoftexcel&logoColor=00C896"/>
 <img src="https://img.shields.io/badge/Tableau-151A28?style=for-the-badge&logo=tableau&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/SQL%20Server-151A28?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/Excel-151A28?style=for-the-badge&logo=microsoftexcel&logoColor=00C896"/>
 
 <br/><br/>
 
-<!-- Languages & Libraries -->
-<b>Languages & Libraries</b>
-<br/>
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github&theme=dark" height="45"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-151A28?style=for-the-badge&logo=pandas&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/NumPy-151A28?style=for-the-badge&logo=numpy&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/Matplotlib-151A28?style=for-the-badge&logo=plotly&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/Seaborn-151A28?style=for-the-badge&logo=python&logoColor=00C896"/>
+### 🗄️ Data & Querying
+
+<img src="https://img.shields.io/badge/SQL-151A28?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/SQL%20Server-151A28?style=for-the-badge&logo=microsoftsqlserver&logoColor=00E5C3"/>
+<img src="https://img.shields.io/badge/Power%20Query-151A28?style=for-the-badge&logo=powerbi&logoColor=00C896"/>
 
 <br/><br/>
 
-<!-- BI Engineering -->
-<b>BI Engineering</b>
-<br/>
-<img src="https://img.shields.io/badge/DAX-151A28?style=for-the-badge&logo=microsoftpowerbi&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/Power%20Query-151A28?style=for-the-badge&logo=powerbi&logoColor=00FFC8"/>
+### 🐍 Python & Analysis
+
+<img src="https://img.shields.io/badge/Python-151A28?style=for-the-badge&logo=python&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/Pandas-151A28?style=for-the-badge&logo=pandas&logoColor=00E5C3"/>
+<img src="https://img.shields.io/badge/NumPy-151A28?style=for-the-badge&logo=numpy&logoColor=00C896"/>
+<img src="https://img.shields.io/badge/Jupyter-151A28?style=for-the-badge&logo=jupyter&logoColor=00FFC8"/>
+
+<br/><br/>
+
+### 📐 BI & Dashboard Development
+
+<img src="https://img.shields.io/badge/DAX-151A28?style=for-the-badge&logo=powerbi&logoColor=00FFC8"/>
 <img src="https://img.shields.io/badge/VBA-151A28?style=for-the-badge&logo=microsoftoffice&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/Star%20Schema-151A28?style=for-the-badge&logo=databricks&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/Data%20Warehouse-151A28?style=for-the-badge&logo=snowflake&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-151A28?style=for-the-badge&logo=databricks&logoColor=00E5C3"/>
 
 <br/><br/>
 
-<!-- Automation & AI -->
-<b>Automation & AI</b>
-<br/>
-<img src="https://img.shields.io/badge/n8n-151A28?style=for-the-badge&logo=n8n&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/AI%20Agents-151A28?style=for-the-badge&logo=openai&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/Automation-151A28?style=for-the-badge&logo=zapier&logoColor=00FFC8"/>
+### 🌐 Web & Development
 
-<br/><br/>
-
-<!-- Analytical Foundations -->
-<b>Analytical Foundations</b>
-<br/>
-<img src="https://img.shields.io/badge/Statistical%20Analysis-151A28?style=for-the-badge&logo=numbers&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/Forecasting-151A28?style=for-the-badge&logo=chartdotjs&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/Regression-151A28?style=for-the-badge&logo=scikitlearn&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/ML%20Basics-151A28?style=for-the-badge&logo=tensorflow&logoColor=00C896"/>
+<img src="https://img.shields.io/badge/HTML5-151A28?style=for-the-badge&logo=html5&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/CSS3-151A28?style=for-the-badge&logo=css3&logoColor=00E5C3"/>
+<img src="https://img.shields.io/badge/JavaScript-151A28?style=for-the-badge&logo=javascript&logoColor=00C896"/>
+<img src="https://img.shields.io/badge/Bootstrap-151A28?style=for-the-badge&logo=bootstrap&logoColor=00FFC8"/>
 
 </div>
 
-<!-- Section Transition 4 — Curve Divider -->
-<img src="https://capsule-render.vercel.app/api?type=curve&color=0:0F172A,100:00C896&height=90&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
-<!-- BUSINESS DOMAINS SECTION -->
+<!-- ANALYTICAL CAPABILITIES -->
 <!-- ================================================================== -->
 
-<h2 align="center">🌍 Business Domains</h2>
+<img src="https://capsule-render.vercel.app/api?type=curve&color=0:0F172A,100:00C896&height=80" width="100%"/>
 
-<!-- Section Illustration: Business Domains -->
-<p align="center"><img src="assets/images/business-domains.png" width="72" alt="Business Domains"/></p>
-
-<!-- Animated Domain Rotator -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=400&color=00E5C3&center=true&vCenter=true&width=560&lines=Retail+%E2%80%A2+Banking+%E2%80%A2+HR+%E2%80%A2+Sales+%E2%80%A2+Marketing;Operations+%E2%80%A2+Finance+%E2%80%A2+Healthcare+%E2%80%A2+Supply+Chain" alt="domain rotator" />
-</div>
-
-<br/>
-
-<!-- Business Domains Grid -->
-<table align="center" width="100%">
-<tr>
-<td align="center" width="16%">🛍️<br/><b>Retail</b></td>
-<td align="center" width="16%">🏦<br/><b>Banking</b></td>
-<td align="center" width="16%">👥<br/><b>HR Analytics</b></td>
-<td align="center" width="16%">📈<br/><b>Sales</b></td>
-<td align="center" width="16%">🎯<br/><b>Customer Analytics</b></td>
-<td align="center" width="16%">⚙️<br/><b>Operations</b></td>
-</tr>
-<tr>
-<td align="center">📣<br/><b>Marketing</b></td>
-<td align="center">🚚<br/><b>Supply Chain</b></td>
-<td align="center">☎️<br/><b>Call Center</b></td>
-<td align="center">💰<br/><b>Finance</b></td>
-<td align="center">🏭<br/><b>Manufacturing</b></td>
-<td align="center">🏥<br/><b>Healthcare</b></td>
-</tr>
-</table>
-
-<p align="center">
-No matter the industry, I can build a <b>complete analytics system</b> around it —<br/>
-from raw transactional data to executive-ready decision dashboards.
-</p>
-
-<!-- Section Transition 5 — Blur Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00FFC8,100:1E293B&height=85" width="100%"/>
-
-<!-- ================================================================== -->
-<!-- WHAT I CAN BUILD SECTION -->
-<!-- ================================================================== -->
-
-<h2 align="center">🚀 What I Can Build</h2>
-
-<!-- Animated Capability Rotator -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00FFC8&center=true&vCenter=true&width=560&lines=Dashboards+%E2%9A%A1+Pipelines+%E2%9A%A1+Automation+%E2%9A%A1+AI+Agents" alt="capability rotator" />
-</div>
-
-<br/>
+<h2 align="center">🧠 Analytical Capabilities</h2>
 
 <table align="center" width="100%">
+
 <tr>
-<!-- Dashboards & Reporting -->
+
 <td width="33%" valign="top">
 
-### 📊 Dashboards & Reporting
-- Executive Dashboards
-- KPI Dashboards
-- Operational Dashboards
-- Interactive Power BI Reports
-- Excel Dashboards & Advanced VBA Systems
+### 📊 Data Analysis
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Analysis
+- KPI Analysis
+- Trend Analysis
+- Customer Analysis
+- Sales Analysis
+- Performance Analysis
 
 </td>
 
-<!-- Data Engineering -->
 <td width="33%" valign="top">
 
-### 🗄️ Data Engineering
-- SQL Databases
-- ETL Pipelines
-- Power Query Solutions
-- Data Modeling (Star Schema)
-- Data Warehousing
+### 📈 Business Intelligence
+
+- Interactive Dashboards
+- KPI Reporting
+- Executive Reporting
+- Operational Reporting
+- Data Visualization
+- Business Insights
+- Decision Support
+- Scenario Analysis
 
 </td>
 
-<!-- Automation & AI -->
 <td width="33%" valign="top">
 
-### 🤖 Automation & AI
-- Python Analytics Systems
-- Automation Systems
-- n8n Workflows
-- AI Agents
-- Business Process Automation
+### 🔍 Data Preparation
+
+- Power Query
+- SQL Queries
+- Data Transformation
+- Data Cleaning
+- Data Preparation
+- Data Modeling
+- Python Data Analysis
+- Web Data Collection
 
 </td>
+
 </tr>
-<tr>
-<!-- Decision Systems -->
-<td width="33%" valign="top">
 
-### 🧠 Decision Systems
-- Forecasting Systems
-- Reporting Systems
-- Decision Support Systems
-- Business Performance Monitoring
-
-</td>
-
-<!-- Full Ecosystems -->
-<td width="33%" valign="top">
-
-### 🏗️ Full Ecosystems
-- Business Intelligence Platforms
-- Data Analytics Systems
-- End-to-End Reporting Pipelines
-
-</td>
-
-<!-- Design & Delivery -->
-<td width="33%" valign="top">
-
-### 🎨 Design & Delivery
-- Storytelling with Data
-- Clean, Modern Dashboard UI/UX
-- Stakeholder-Ready Deliverables
-
-</td>
-</tr>
 </table>
 
-<!-- Section Transition 6 — Cylinder Divider -->
+
+<!-- ================================================================== -->
+<!-- PROJECTS -->
+<!-- ================================================================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:151A28,100:00E5C3&height=75" width="100%"/>
 
-<!-- ================================================================== -->
-<!-- SKILLS OVERVIEW SECTION -->
-<!-- ================================================================== -->
-
-<h2 align="center">📊 Skills Overview</h2>
+<h2 align="center">📂 Projects</h2>
 
 <div align="center">
 
-**Power BI** `████████████████████░░` 90%
-**SQL** `███████████████████░░░` 88%
-**Python** `██████████████████░░░░` 85%
-**Excel** `████████████████████░░` 92%
-**DAX** `██████████████████░░░░` 85%
-**Power Query** `█████████████████░░░░░` 82%
-**Statistics** `████████████████░░░░░░` 78%
-**Automation (n8n / AI)** `█████████████████░░░░░` 83%
-**Business Intelligence** `████████████████████░░` 90%
-**Data Visualization** `████████████████████░░` 91%
-**Data Modeling** `██████████████████░░░░` 85%
-**Dashboard Design** `████████████████████░░` 93%
-**Problem Solving** `████████████████████░░` 92%
-**Business Understanding** `███████████████████░░░` 88%
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=600&color=00FFC8&center=true&vCenter=true&width=650&lines=Real+Projects+%7C+Business+Questions+%7C+Data-Driven+Insights" alt="Projects animation"/>
 
 </div>
 
-<!-- Section Transition 7 — Rect Solid Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C896,100:0F172A&height=8" width="100%"/>
+<br/>
 
-<!-- ================================================================== -->
-<!-- FEATURED PROJECTS SECTION -->
-<!-- ================================================================== -->
 
-<h2 align="center">📂 Featured Projects</h2>
-
-<!-- Section Illustration: Featured Projects -->
-<p align="center"><img src="assets/images/featured-projects.png" width="72" alt="Featured Projects"/></p>
+<!-- PROJECT 1 -->
 
 <table align="center" width="100%">
-
-<!-- Project Card 1: HR Analytics Dashboard -->
 <tr>
-<td width="50%">
-<h3 align="center">🏢 HR Analytics Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00FFC8?text=HR+Dashboard" width="100%"/></p>
-<p><b>Description:</b> An end-to-end HR analytics dashboard tracking headcount, attrition, hiring funnel, and workforce diversity KPIs for leadership review.</p>
-<p><b>Tech Stack:</b> Power BI · DAX · Power Query · SQL Server</p>
-<p><b>Highlights:</b> Dynamic attrition modeling · Drill-through employee profiles · Automated monthly refresh</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
+<td>
 
-<!-- Project Card 2: Banking Performance Dashboard -->
-<td width="50%">
-<h3 align="center">🏦 Banking Performance Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00E5C3?text=Banking+Dashboard" width="100%"/></p>
-<p><b>Description:</b> A branch-level performance dashboard analyzing loan portfolios, deposits, and customer segmentation for regional bank management.</p>
-<p><b>Tech Stack:</b> Power BI · SQL · DAX · Excel</p>
-<p><b>Highlights:</b> Risk-tier segmentation · Branch benchmarking · Automated KPI alerts</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
+## 🚚 Supply Chain Analytics — Cottonil
+
+An end-to-end **Power BI supply chain analytics project** covering multiple areas of the business.
+
+### 🔎 Analysis Areas
+
+- Sales Analysis
+- Purchases Analysis
+- Inventory Analysis
+- Supplier Performance
+- Product Performance
+- Business Insights
+- Scenario / What-If Analysis
+
+### 🛠️ Tools
+
+**Power BI · Power Query · DAX**
+
+### 💡 Focus
+
+**Operational Visibility · Decision Support · Business Performance**
+
 </td>
 </tr>
-
-<!-- Project Card 3: Retail Analytics Dashboard -->
-<tr>
-<td width="50%">
-<h3 align="center">🛍️ Retail Analytics Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00FFC8?text=Retail+Dashboard" width="100%"/></p>
-<p><b>Description:</b> A multi-store retail performance system tracking sales trends, inventory turnover, and category-level profitability.</p>
-<p><b>Tech Stack:</b> Power BI · Python · Pandas · SQL</p>
-<p><b>Highlights:</b> Store comparison matrix · Seasonal trend forecasting · Inventory alerts</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-
-<!-- Project Card 4: Coffee Shop Sales Dashboard -->
-<td width="50%">
-<h3 align="center">☕ Coffee Shop Sales Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00E5C3?text=Coffee+Shop+Dashboard" width="100%"/></p>
-<p><b>Description:</b> A sales and product-mix dashboard for a multi-location coffee shop chain, highlighting peak hours and top-performing products.</p>
-<p><b>Tech Stack:</b> Power BI · DAX · Excel</p>
-<p><b>Highlights:</b> Hourly sales heatmap · Product mix analysis · Location comparison</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-</tr>
-
-<!-- Project Card 5: Call Center Performance Dashboard -->
-<tr>
-<td width="50%">
-<h3 align="center">☎️ Call Center Performance Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00FFC8?text=Call+Center+Dashboard" width="100%"/></p>
-<p><b>Description:</b> A real-time-style dashboard monitoring call volume, resolution time, agent performance, and customer satisfaction scores.</p>
-<p><b>Tech Stack:</b> Power BI · SQL · Python</p>
-<p><b>Highlights:</b> Agent scorecards · SLA compliance tracking · Trend analysis</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-
-<!-- Project Card 6: Executive Dashboard -->
-<td width="50%">
-<h3 align="center">👔 Executive Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00E5C3?text=Executive+Dashboard" width="100%"/></p>
-<p><b>Description:</b> A single-page executive summary consolidating revenue, profitability, and operational KPIs across the entire business.</p>
-<p><b>Tech Stack:</b> Power BI · DAX · Data Modeling</p>
-<p><b>Highlights:</b> One-page company overview · Drill-down by department · Mobile-optimized layout</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-</tr>
-
-<!-- Project Card 7: Sales Analytics Dashboard -->
-<tr>
-<td width="50%">
-<h3 align="center">📈 Sales Analytics Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00FFC8?text=Sales+Dashboard" width="100%"/></p>
-<p><b>Description:</b> A sales performance system tracking pipeline health, rep performance, and regional targets vs. actuals.</p>
-<p><b>Tech Stack:</b> Power BI · SQL · Excel · DAX</p>
-<p><b>Highlights:</b> Target vs actual tracking · Rep leaderboard · Pipeline funnel analysis</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-
-<!-- Project Card 8: Customer Insights Dashboard -->
-<td width="50%">
-<h3 align="center">🎯 Customer Insights Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00E5C3?text=Customer+Insights" width="100%"/></p>
-<p><b>Description:</b> A customer segmentation and lifetime-value dashboard used to guide retention and marketing strategy.</p>
-<p><b>Tech Stack:</b> Python · Pandas · Power BI</p>
-<p><b>Highlights:</b> RFM segmentation · Churn risk scoring · Cohort analysis</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-</tr>
-
-<!-- Project Card 9: Supply Chain Dashboard -->
-<tr>
-<td width="50%">
-<h3 align="center">🚚 Supply Chain Dashboard</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00FFC8?text=Supply+Chain+Dashboard" width="100%"/></p>
-<p><b>Description:</b> An end-to-end supply chain visibility dashboard covering procurement, inventory levels, and delivery performance.</p>
-<p><b>Tech Stack:</b> Power BI · SQL · Power Query</p>
-<p><b>Highlights:</b> Inventory aging analysis · Supplier scorecards · On-time delivery tracking</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-
-<!-- Project Card 10: n8n AI Automation Workflows -->
-<td width="50%">
-<h3 align="center">🤖 n8n AI Automation Workflows</h3>
-<p align="center"><img src="https://placehold.co/500x260/151A28/00E5C3?text=n8n+AI+Workflows" width="100%"/></p>
-<p><b>Description:</b> A collection of automation workflows using n8n and AI agents to eliminate repetitive business processes and connect systems.</p>
-<p><b>Tech Stack:</b> n8n · AI Agents · APIs · Webhooks</p>
-<p><b>Highlights:</b> Automated reporting pipelines · CRM sync · Smart notification systems</p>
-<p align="center">
-<a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C896?style=for-the-badge&logo=vercel&logoColor=0F172A"/></a>
-</p>
-</td>
-</tr>
-
 </table>
 
-<p align="center"><i>📌 Note: Project preview images are placeholders — replace the <code>placehold.co</code> URLs above with your own uploaded dashboard screenshots, and swap the Live Demo links to your real published reports.</i></p>
 
-<!-- Section Transition 8 — Waving Divider (Reversed) -->
+<!-- PROJECT 2 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 👥 Customer Behavior Analysis
+
+A customer-focused analytics project combining **SQL Server and Python/Jupyter** to explore customer data and build an analytical reporting story.
+
+### 🔎 Focus
+
+- Customer Data Analysis
+- Behavioral Analysis
+- Data Exploration
+- SQL Analysis
+- Python-Based Analysis
+
+### 🛠️ Tools
+
+**SQL Server · SQL · Python · Jupyter**
+
+### 💡 Focus
+
+**Customer Segmentation · Behavior Patterns · Data Exploration**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 3 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 🌐 Web Scraping Projects
+
+A collection of web scraping projects focused on collecting structured information from websites.
+
+### 🔎 Projects Include
+
+- Amazon
+- Jumia
+- Other websites
+
+### 🛠️ Tools
+
+**Python · Requests · BeautifulSoup · Selenium**
+
+### 💡 Focus
+
+**Automated Collection · Web Data Extraction · Structured Data**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 4 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 👟 ADIDAS Sales Dashboard
+
+A one-page **Tableau sales dashboard** built using a 2021 sales dataset.
+
+The project included data preparation and dashboard development with a focus on understanding sales performance and trends.
+
+### 🔎 Focus
+
+- Sales Performance
+- Trend Analysis
+- KPI Analysis
+- Interactive Filtering
+
+### 🛠️ Tools
+
+**Tableau · Power Query · Excel**
+
+### 💡 Focus
+
+**Sales Performance · Trend Analysis**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 5 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 🎬 Netflix Analysis Dashboard
+
+A dashboard project focused on analyzing the Netflix dataset and presenting the available content information through an interactive analytical view.
+
+### 🛠️ Tools
+
+**Tableau · Power Query · Excel**
+
+### 💡 Focus
+
+**Content Trends · Catalog Insights**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 6 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 👥 HR Analysis Project
+
+An HR-focused analytics project designed to analyze workforce-related data and present meaningful performance insights.
+
+### 🛠️ Tools
+
+**Excel · Power Query · VBA Macros · PivotTables**
+
+### 💡 Focus
+
+**Workforce Insights · Performance Analysis**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 7 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## ☎️ Salla Call Center Analysis
+
+A call-center analytics project focused on understanding operational performance and extracting insights from call-center data.
+
+### 🛠️ Tools
+
+**Power BI · DAX · Data Modeling**
+
+### 💡 Focus
+
+**Service Performance · Operational Insights**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 8 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 🛋️ Sales Analysis Dashboard — Misuo Furniture
+
+A Power BI sales analysis project focused on understanding sales performance and business results.
+
+### 🛠️ Tools
+
+**Power BI · DAX · Data Modeling**
+
+### 💡 Focus
+
+**Revenue Drivers · Sales Performance**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 9 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 💰 Financial Analysis Dashboard
+
+A financial analytics dashboard project focused on presenting financial data through an organized analytical interface.
+
+### 🛠️ Tools
+
+**Power BI / Python — according to the project version**
+
+### 💡 Focus
+
+**Financial Performance · Business Monitoring**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 10 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 🐍 Customer Behavior Analysis — Python
+
+A Python-based customer behavior analysis project focused on exploring customer data and extracting analytical patterns.
+
+### 🛠️ Tools
+
+**Python · Pandas · Jupyter**
+
+### 💡 Focus
+
+**Behavior Patterns · Data Exploration**
+
+</td>
+</tr>
+</table>
+
+
+<!-- PROJECT 11 -->
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## ▶️ YouTube Analytics Dashboard
+
+A dashboard project focused on analyzing YouTube-related performance data and presenting the results through an interactive reporting interface.
+
+### 🛠️ Tools
+
+**Excel · VBA Macro · Power Query · PivotTables**
+
+### 💡 Focus
+
+**Channel Performance · Audience Insights**
+
+</td>
+</tr>
+</table>
+
+
+<!-- ================================================================== -->
+<!-- PROJECT PORTFOLIO LINK -->
+<!-- ================================================================== -->
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/YasserSalemElnakeb">
+<img src="https://img.shields.io/badge/Explore%20More%20Projects-00C896?style=for-the-badge&logo=github&logoColor=0F172A"/>
+</a>
+
+</div>
+
+
+<!-- ================================================================== -->
+<!-- CERTIFICATION -->
+<!-- ================================================================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:00FFC8&height=80&reversal=true" width="100%"/>
 
-<!-- ================================================================== -->
-<!-- CERTIFICATIONS SECTION -->
-<!-- ================================================================== -->
+<h2 align="center">🎓 Professional Training</h2>
 
-<h2 align="center">🎓 Certifications</h2>
-
-<!-- Section Illustration: Certifications -->
-<p align="center"><img src="assets/images/certifications.png" width="72" alt="Certifications"/></p>
-
-<!-- Animated Certificate Accent -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00C896&center=true&vCenter=true&width=480&lines=%F0%9F%8E%93+Diploma-Certified+%E2%80%A2+Project-Tested" alt="certificate accent" />
-</div>
 
-<br/>
+### 📊 Data Analysis Diploma
+
+**Mazen Analytics**
+
+</div>
 
 <table align="center" width="100%">
 <tr>
-<!-- Certification Card -->
+
 <td width="50%" valign="top">
 
-### 🎓 Professional Data Analysis Diploma
+### 📚 Covered Topics
 
-A comprehensive, project-based diploma covering the full data analytics lifecycle:
-
-- Excel · Power Query · Power Pivot · Dashboarding · VBA
-- Python for Data Analysis · Pandas · NumPy · Matplotlib · Seaborn
-- Web Scraping · Regression Models · Statistics
-- Power BI · DAX · SQL · Tableau
-- AI Agents · Business Understanding
+- Statistics
+- Excel for Data Analysis
+- Business Basics
+- Tableau
+- Power BI
+- SQL for Data Analysis
+- Python for Data Analysis
+- Freelancing
+- n8n & Automation
 
 </td>
 
-<!-- Training Highlights Card -->
 <td width="50%" valign="top">
 
-### 🏆 Practical Training Highlights
+### 🧩 Practical Application
 
-- Portfolio Projects across multiple industries
-- Career Preparation & Freelancing Preparation
-- Live Training with Real Company Projects
-- Business KPI Design Workshops
-- Practical, hands-on capstone projects
+The training was reinforced through practical analytical projects covering:
 
-I mastered these skills not through theory alone, but through **extensive, practical, real-world projects.**
+- Sales
+- Supply Chain
+- Customer Behavior
+- HR
+- Finance
+- Call Center Analysis
+- Dashboards
+- Web Scraping
 
 </td>
+
 </tr>
 </table>
 
-<!-- Section Transition 9 — Soft Divider (Reversed, Violet-Cyan) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5C3,100:151A28&height=75&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
-<!-- AUTOMATION & AI WORKFLOWS SECTION -->
+<!-- LANGUAGES -->
 <!-- ================================================================== -->
 
-<h2 align="center">🤖 Automation & AI Workflows</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C896,100:0F172A&height=8" width="100%"/>
 
-<!-- Section Illustration: Automation & AI -->
-<p align="center"><img src="assets/images/automation-ai.png" width="72" alt="Automation and AI"/></p>
+<h2 align="center">🌍 Languages</h2>
 
-<p align="center">
-I design complete <b>business automation systems</b> that connect data, tools, and decisions — so teams spend less time on repetitive tasks and more time acting on insight.
-</p>
-
-<!-- Animated Workflow Pipeline -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2600&pause=500&color=00FFC8&center=true&vCenter=true&width=620&lines=Trigger+%E2%9A%A1+Process+%F0%9F%94%84+AI+Agent+%F0%9F%A4%96+Action+%E2%9C%85+Done" alt="automation pipeline" />
+
+🇪🇬 **Arabic** — Native
+
+🇬🇧 **English** — Professional Working Proficiency
+
 </div>
 
-<br/>
-
-<!-- Automation Grid -->
-<table align="center" width="100%">
-<tr>
-<td align="center" width="20%">🔗<br/><b>n8n Workflows</b></td>
-<td align="center" width="20%">🤖<br/><b>AI Agents</b></td>
-<td align="center" width="20%">⚙️<br/><b>Workflow Automation</b></td>
-<td align="center" width="20%">🔄<br/><b>Data Pipelines</b></td>
-<td align="center" width="20%">🔔<br/><b>Business Notifications</b></td>
-</tr>
-<tr>
-<td align="center">📑<br/><b>Reporting Automation</b></td>
-<td align="center">📇<br/><b>CRM Integrations</b></td>
-<td align="center">🗃️<br/><b>Database Integrations</b></td>
-<td align="center">🌐<br/><b>API Integrations</b></td>
-<td align="center">🏭<br/><b>Process Automation</b></td>
-</tr>
-</table>
-
-<!-- Section Transition 10 — Rounded Divider (Reversed) -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C896,100:0F172A&height=75&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
-<!-- GITHUB ANALYTICS SECTION — Dashboard-Style Layout -->
+<!-- GITHUB ANALYTICS -->
 <!-- ================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C896,100:0F172A&height=70&reversal=true" width="100%"/>
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<!-- Section Illustration: GitHub Analytics -->
-<p align="center"><img src="assets/images/github-analytics.png" width="72" alt="GitHub Analytics"/></p>
-
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YasserSalemElnakeb&show_icons=true&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&icon_color=00C896&text_color=FFFFFF&ring_color=00E5C3" width="48%"/>
-<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=YasserSalemElnakeb&show_icons=true&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&icon_color=00C896&text_color=FFFFFF" width="48%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserSalemElnakeb&layout=compact&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&text_color=FFFFFF" width="48%"/>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com/?user=YasserSalemElnakeb&theme=dark&hide_border=true&background=151A28&stroke=00E5C3&ring=00C896&fire=00FFC8&currStreakLabel=00FFC8" width="70%"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasserSalemElnakeb&theme=react-dark&bg_color=151A28&color=00FFC8&line=00C896&point=FFFFFF&hide_border=true" width="90%"/>
 
 <br/><br/>
 
-<!-- Visitor Counter & Follower Badges -->
-<img src="https://komarev.com/ghpvc/?username=YasserSalemElnakeb&label=Profile%20Views&color=00C896&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YasserSalemElnakeb&label=Profile%20Views&color=00C896&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/YasserSalemElnakeb?label=Followers&style=for-the-badge&color=00E5C3&labelColor=151A28"/>
-<img src="https://img.shields.io/github/stars/YasserSalemElnakeb?label=Stars&style=for-the-badge&color=00FFC8&labelColor=151A28"/>
 
 </div>
 
-<!-- Section Transition 11 — Slice Divider (Reversed) -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:00E5C3&height=75&reversal=true" width="100%"/>
 
 <!-- ================================================================== -->
-<!-- GITHUB TROPHIES SECTION -->
+<!-- CONTACT -->
 <!-- ================================================================== -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<!-- Section Illustration: GitHub Trophies -->
-<p align="center"><img src="assets/images/github-trophies.png" width="72" alt="GitHub Trophies"/></p>
-
-<div align="center">
-
-<!-- Trophy Widget -->
-<img src="https://github-profile-trophy.vercel.app/?username=YasserSalemElnakeb&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true&title.color=00FFC8&background=151A28&border=00C896" width="90%"/>
-
-</div>
-
-<!-- Section Transition 12 — Curve Divider -->
-<img src="https://capsule-render.vercel.app/api?type=curve&color=0:00FFC8,100:151A28&height=70" width="100%"/>
-
-<!-- ================================================================== -->
-<!-- QUOTE SECTION -->
-<!-- ================================================================== -->
-
-<div align="center">
-
-### 💬
-
-> *"Data becomes valuable only when it drives better decisions."*
-
-</div>
-
-<br/>
-
-<!-- ================================================================== -->
-<!-- CONTACT SECTION -->
-<!-- ================================================================== -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:00E5C3&height=70&reversal=true" width="100%"/>
 
 <h2 align="center">📬 Let's Connect</h2>
 
-<!-- Section Illustration: Contact -->
-<p align="center"><img src="assets/images/contact.png" width="72" alt="Let's Connect"/></p>
-
-<!-- Animated Contact Prompt -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00E5C3&center=true&vCenter=true&width=460&lines=%E2%86%93+Reach+out+anytime+%E2%86%93" alt="contact prompt" />
-</div>
-
-<!-- Contact Buttons -->
 <div align="center">
 
-<a href="https://github.com/YasserSalemElnakeb"><img src="https://img.shields.io/badge/GitHub-151A28?style=for-the-badge&logo=github&logoColor=00FFC8"/></a>
-<a href="https://linkedin.com/in/YasserSalemElnakeb"><img src="https://img.shields.io/badge/LinkedIn-151A28?style=for-the-badge&logo=linkedin&logoColor=00C896"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-151A28?style=for-the-badge&logo=gmail&logoColor=00E5C3"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-151A28?style=for-the-badge&logo=vercel&logoColor=00FFC8"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=600&color=00E5C3&center=true&vCenter=true&width=500&lines=Open+to+Data+Analytics+Opportunities;Let's+Connect+%26+Build+Something+Meaningful" alt="Contact animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/YasserSalemElnakeb">
+<img src="https://img.shields.io/badge/GitHub-151A28?style=for-the-badge&logo=github&logoColor=00FFC8"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237">
+<img src="https://img.shields.io/badge/LinkedIn-151A28?style=for-the-badge&logo=linkedin&logoColor=00C896"/>
+</a>
+
+<a href="mailto:yassersalemelnakeb123@gmail.com">
+<img src="https://img.shields.io/badge/Email-151A28?style=for-the-badge&logo=gmail&logoColor=00E5C3"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- ================================================================== -->
-<!-- IMAGE ASSETS DOCUMENTATION (for maintainers — collapsed by default) -->
-<!-- ================================================================== -->
-
-<details>
-<summary>📁 Image Assets Reference (click to expand)</summary>
-
-<br/>
-
-All section illustrations below are sourced from **GitHub's own official emoji CDN** (`github.githubassets.com`) — the same assets GitHub uses to render emoji in every README on the platform, so they are effectively guaranteed to stay online.
-
-| Section | Local Path | Source URL | Reason |
-|---|---|---|---|
-| Business Domains | `assets/images/business-domains.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png?v8` | Office building — represents cross-industry business presence |
-| Featured Projects | `assets/images/featured-projects.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png?v8` | Bar chart — dashboard/reporting visual |
-| Certifications | `assets/images/certifications.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8` | Graduation cap — professional credential visual |
-| Automation & AI Workflows | `assets/images/automation-ai.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8` | Robot — AI/automation visual |
-| GitHub Analytics | `assets/images/github-analytics.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png?v8` | Chart increasing — analytics/growth visual |
-| GitHub Trophies | `assets/images/github-trophies.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8` | Trophy — achievement visual |
-| Let's Connect | `assets/images/contact.png` | `https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8` | Handshake — communication/connection visual |
-
-**Setup:** download each source URL above and save it under `/assets/images/` in this repo using the filename shown, so the README renders from local files instead of external calls.
-
-</details>
-
-<br/>
-
-<!-- ================================================================== -->
-<!-- FOOTER SECTION — Animated Wave + Rocket Sign-Off -->
-<!-- ================================================================== -->
-
 <div align="center">
 
-<!-- Animated Rocket Sign-Off -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=600&color=00FFC8&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Thanks+for+stopping+by+%F0%9F%9A%80" alt="rocket sign-off" />
+> **"Data becomes valuable when it helps people make better decisions."**
 
-**Designed with ❤️ by Yasser Salem Elnakeb**
+<br/>
+
+**Designed & developed by Yasser Salem Elnakeb**
 
 </div>
 
-<!-- Animated Wave Footer (Capsule Render — gradient close) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:00C896&height=150&section=footer" width="100%"/>
