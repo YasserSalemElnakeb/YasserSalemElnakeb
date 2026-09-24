@@ -315,18 +315,13 @@ Python-based analysis focused on exploring customer data and extracting deep ana
 <h2 align="center">📈 SYSTEM TELEMETRY (GITHUB STATS)</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YasserSalemElnakeb&show_icons=true&theme=dark&hide_border=true&bg_color=090514&title_color=04D9FF&icon_color=E01A4F&text_color=FFC857" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserSalemElnakeb&layout=compact&theme=dark&hide_border=true&bg_color=090514&title_color=04D9FF&text_color=FFC857" width="48%"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=YasserSalemElnakeb&theme=dark&hide_border=true&background=090514&stroke=04D9FF&ring=E01A4F&fire=FFC857&currStreakLabel=04D9FF" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasserSalemElnakeb&theme=react-dark&bg_color=090514&color=04D9FF&line=E01A4F&point=FFC857&hide_border=true" width="90%"/>
+
 
 <br/><br/>
 
