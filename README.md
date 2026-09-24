@@ -1,95 +1,115 @@
-<!-- ================================================================== -->
-<!-- HERO SECTION -->
-<!-- ================================================================== -->
+<!-- ================================================================ -->
+<!-- YASSER SALEM ELNAKEB — GITHUB PROFILE README -->
+<!-- Premium Data Analytics / Dark Glass Identity -->
+<!-- ================================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E293B,70:00C896,100:00FFC8&height=230&section=header&text=Yasser%20Salem%20Elnakeb&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20Turning%20Data%20Into%20Business%20Insight&descAlignY=56&descSize=18&descColor=00FFC8" width="100%"/>
+<!-- ========================= HERO ========================= -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00FFC8&center=true&vCenter=true&width=760&lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Tableau+%7C+Power+Query+%7C+DAX;Building+Business-Focused+Analytics" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=YASSER%20SALEM&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20DATA%20STORYTELLING&descSize=17&descAlignY=58&descColor=38BDF8&animation=twinkling&color=0:050816,40:0B1224,75:071A2D,100:00E5A8" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Business+Insight;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Tableau+%7C+Power+Query+%7C+DAX;Building+Clear+Analytics+For+Better+Decisions" alt="Typing animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ROLE-Data%20Analyst-00E5A8?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/LOCATION-Qena%2C%20Egypt-38BDF8?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-RELOCATION-8B5CF6?style=for-the-badge&labelColor=050816"/>
+
+<br/><br/>
+
 <a href="https://github.com/YasserSalemElnakeb">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-151A28?style=for-the-badge&logo=github&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-151A28?style=for-the-badge&logo=linkedin&logoColor=00C896"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="mailto:yassersalemelnakeb123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-151A28?style=for-the-badge&logo=gmail&logoColor=00E5C3"/>
+<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00E5A8"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E5C3,100:0F172A&height=80" width="100%"/>
-
-
-<!-- ================================================================== -->
-<!-- ABOUT ME -->
-<!-- ================================================================== -->
-
-<h2 align="center">👋 About Me</h2>
+<!-- ========================= DATA FLOW ========================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=700&color=00E5C3&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Analytics+%7C+Business+Intelligence;From+Raw+Data+to+Clear+Business+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+%7C+Tableau" alt="About animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1800&pause=300&color=00E5A8&center=true&vCenter=true&width=700&lines=RAW+DATA+%E2%86%92+CLEANING+%E2%86%92+ANALYSIS+%E2%86%92+VISUALIZATION+%E2%86%92+INSIGHT" alt="Data flow"/>
 
 </div>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5A8,50:38BDF8,100:8B5CF6" width="100%"/>
 
-<td align="center" width="25%">
 
-📍  
-**Location**
+<!-- ================================================================ -->
+<!-- ABOUT -->
+<!-- ================================================================ -->
+
+<h2 align="center">◈ ABOUT ME</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=ANALYZE+%E2%80%A2+UNDERSTAND+%E2%80%A2+VISUALIZE+%E2%80%A2+DECIDE" alt="About animation"/>
+
+</div>
 
 <br/>
 
-Qena, Egypt  
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+### 📍
+
+**LOCATION**
+
+Qena, Egypt
+
 **Open to Relocation**
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-🎯  
-**Target Role**
+### 🎯
 
-<br/>
+**TARGET ROLE**
 
-**Data Analyst**
+Data Analyst
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-📊  
-**Focus**
+### 📊
 
-<br/>
+**FOCUS**
 
-Data Analysis  
+Data Analysis
+
 Business Intelligence
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-🎓  
-**Background**
+### 🎓
 
-<br/>
+**BACKGROUND**
 
-Computer Engineering  
-Data Analysis Diploma
+Computer Engineering
+
+Data Analysis
 
 </td>
 
@@ -98,38 +118,161 @@ Data Analysis Diploma
 
 <br/>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-> I am a **Data Analyst** with a Computer Engineering background and practical training in data analysis.
->
-> I work with **Power BI, SQL, Python, Excel, Tableau, Power Query and DAX** to transform raw data into structured analysis, interactive dashboards and business-focused insights.
->
-> My portfolio includes projects covering **sales, supply chain, customer behavior, HR, finance, call center operations, web scraping and analytics dashboards**.
->
-> I focus on understanding the business question first, then using data to build a clear and useful analytical solution.
+I am a **Data Analyst** with a Computer Engineering background and practical training in data analysis.
+
+I work with **Power BI, SQL, Python, Excel, Tableau, Power Query and DAX** to transform raw data into structured analysis, interactive dashboards and business-focused insights.
+
+My portfolio includes projects covering **sales, supply chain, customer behavior, HR, finance, call center operations, web scraping and analytics dashboards**.
+
+My approach is simple:
+
+> **Understand the business question → analyze the data → communicate the insight → support better decisions.**
 
 </td>
 </tr>
 </table>
 
 
-<!-- ================================================================== -->
-<!-- EXPERIENCE & TRAINING -->
-<!-- ================================================================== -->
+<!-- ================================================================ -->
+<!-- CORE TOOLKIT -->
+<!-- ================================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:151A28,100:00C896&height=70" width="100%"/>
+<br/>
 
-<h2 align="center">💼 Experience & Training</h2>
+<h2 align="center">⚡ CORE TOOLKIT</h2>
 
-<table align="center" width="100%">
+<div align="center">
 
+<img src="https://img.shields.io/badge/POWER%20BI-050816?style=for-the-badge&logo=powerbi&logoColor=00E5A8"/>
+<img src="https://img.shields.io/badge/TABLEAU-050816?style=for-the-badge&logo=tableau&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/EXCEL-050816?style=for-the-badge&logo=microsoftexcel&logoColor=00E5A8"/>
+<img src="https://img.shields.io/badge/SQL-050816?style=for-the-badge&logo=microsoftsqlserver&logoColor=38BDF8"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON-050816?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/PANDAS-050816?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/JUPYTER-050816?style=for-the-badge&logo=jupyter&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/POWER%20QUERY-050816?style=for-the-badge&logo=powerbi&logoColor=8B5CF6"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DAX-050816?style=for-the-badge&logo=powerbi&logoColor=00E5A8"/>
+<img src="https://img.shields.io/badge/VBA-050816?style=for-the-badge&logo=microsoftoffice&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-050816?style=for-the-badge&logo=javascript&logoColor=FACC15"/>
+
+</div>
+
+
+<!-- ================================================================ -->
+<!-- ANALYTICS LIFECYCLE -->
+<!-- ================================================================ -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=65&color=0:050816,50:071A2D,100:00E5A8" width="100%"/>
+
+<h2 align="center">🔬 ANALYTICS LIFECYCLE</h2>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center" width="20%">
+
+### 01
+
+🧹
+
+**CLEAN**
+
+Data Cleaning  
+Data Preparation
+
+</td>
+
+<td align="center" width="20%">
+
+### 02
+
+🔎
+
+**EXPLORE**
+
+EDA  
+Patterns  
+Trends
+
+</td>
+
+<td align="center" width="20%">
+
+### 03
+
+📐
+
+**ANALYZE**
+
+SQL  
+Python  
+DAX
+
+</td>
+
+<td align="center" width="20%">
+
+### 04
+
+📊
+
+**VISUALIZE**
+
+Power BI  
+Tableau  
+Excel
+
+</td>
+
+<td align="center" width="20%">
+
+### 05
+
+💡
+
+**INSIGHT**
+
+Business Questions  
+Decision Support
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+<!-- ================================================================ -->
+<!-- EXPERIENCE -->
+<!-- ================================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&color=0:8B5CF6,50:38BDF8,100:00E5A8" width="100%"/>
+
+<h2 align="center">💼 EXPERIENCE & TRAINING</h2>
+
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 📊 Data Analysis Diploma
+## 📊 Data Analysis Diploma
 
 **Mazen Analytics**
 
@@ -145,17 +288,15 @@ Practical training covering:
 - Freelancing
 - n8n & Automation
 
-The training was supported by practical projects and hands-on analytical work.
-
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Web Designer / Front-End Developer Trainee
+## 💻 Web Designer / Front-End Developer Trainee
 
-**National Telecommunication Institute (NTI)**
+**National Telecommunication Institute — NTI**
 
-Training focused on:
+Training included:
 
 - HTML
 - CSS
@@ -171,41 +312,40 @@ Training focused on:
 </td>
 
 </tr>
-
 </table>
 
 <br/>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-### 🌍 International Tour Leader & Operations Coordinator
+## 🌍 International Tour Leader & Operations Coordinator
 
 Professional experience involving:
 
 - Airport and hotel transfers
 - Trip and destination coordination
-- Guest communication and support
+- Guest communication
 - Transportation coordination
 - Hotel and destination feedback
 - Working with international guests
 - Operational problem solving
 
-This experience strengthened my communication, coordination and problem-solving skills alongside my technical background.
+This experience strengthened my **communication, coordination and problem-solving skills** alongside my technical background.
 
 </td>
 </tr>
 </table>
 
 
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 <!-- EDUCATION -->
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FFC8,100:151A28&height=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=0:00E5A8,50:38BDF8,100:050816" width="100%"/>
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">🎓 EDUCATION</h2>
 
 <div align="center">
 
@@ -213,384 +353,259 @@ This experience strengthened my communication, coordination and problem-solving 
 
 **Bachelor's Degree in Computer Engineering**
 
-**October 2020 – July 2025**
+October 2020 – July 2025
 
-Overall Grade: **Good**
+**Overall Grade: Good**
 
-🎓 Graduation Project:  
-**Learning Management System Website (LMS)**
+<br/>
 
-Graduation Project Grade: **Excellent**
+🎓 **Graduation Project**
 
-</div>
+**Learning Management System Website — LMS**
 
-
-<!-- ================================================================== -->
-<!-- TECH STACK -->
-<!-- ================================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:151A28,100:00E5C3&height=70" width="100%"/>
-
-<h2 align="center">🛠️ Technical Skills</h2>
-
-<div align="center">
-
-### 📊 Data & BI
-
-<img src="https://img.shields.io/badge/Power%20BI-151A28?style=for-the-badge&logo=powerbi&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/Tableau-151A28?style=for-the-badge&logo=tableau&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/Excel-151A28?style=for-the-badge&logo=microsoftexcel&logoColor=00C896"/>
-
-<br/><br/>
-
-### 🗄️ Data & Querying
-
-<img src="https://img.shields.io/badge/SQL-151A28?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/SQL%20Server-151A28?style=for-the-badge&logo=microsoftsqlserver&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/Power%20Query-151A28?style=for-the-badge&logo=powerbi&logoColor=00C896"/>
-
-<br/><br/>
-
-### 🐍 Python & Analysis
-
-<img src="https://img.shields.io/badge/Python-151A28?style=for-the-badge&logo=python&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/Pandas-151A28?style=for-the-badge&logo=pandas&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/NumPy-151A28?style=for-the-badge&logo=numpy&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/Jupyter-151A28?style=for-the-badge&logo=jupyter&logoColor=00FFC8"/>
-
-<br/><br/>
-
-### 📐 BI & Dashboard Development
-
-<img src="https://img.shields.io/badge/DAX-151A28?style=for-the-badge&logo=powerbi&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/VBA-151A28?style=for-the-badge&logo=microsoftoffice&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-151A28?style=for-the-badge&logo=databricks&logoColor=00E5C3"/>
-
-<br/><br/>
-
-### 🌐 Web & Development
-
-<img src="https://img.shields.io/badge/HTML5-151A28?style=for-the-badge&logo=html5&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/CSS3-151A28?style=for-the-badge&logo=css3&logoColor=00E5C3"/>
-<img src="https://img.shields.io/badge/JavaScript-151A28?style=for-the-badge&logo=javascript&logoColor=00C896"/>
-<img src="https://img.shields.io/badge/Bootstrap-151A28?style=for-the-badge&logo=bootstrap&logoColor=00FFC8"/>
+**Graduation Project Grade: Excellent**
 
 </div>
 
 
-<!-- ================================================================== -->
-<!-- ANALYTICAL CAPABILITIES -->
-<!-- ================================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=curve&color=0:0F172A,100:00C896&height=80" width="100%"/>
-
-<h2 align="center">🧠 Analytical Capabilities</h2>
-
-<table align="center" width="100%">
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 📊 Data Analysis
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Business Analysis
-- KPI Analysis
-- Trend Analysis
-- Customer Analysis
-- Sales Analysis
-- Performance Analysis
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📈 Business Intelligence
-
-- Interactive Dashboards
-- KPI Reporting
-- Executive Reporting
-- Operational Reporting
-- Data Visualization
-- Business Insights
-- Decision Support
-- Scenario Analysis
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔍 Data Preparation
-
-- Power Query
-- SQL Queries
-- Data Transformation
-- Data Cleaning
-- Data Preparation
-- Data Modeling
-- Python Data Analysis
-- Web Data Collection
-
-</td>
-
-</tr>
-
-</table>
-
-
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 <!-- PROJECTS -->
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:151A28,100:00E5C3&height=75" width="100%"/>
+<br/>
 
-<h2 align="center">📂 Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:050816,40:071A2D,75:8B5CF6,100:00E5A8" width="100%"/>
+
+<h2 align="center">🚀 SELECTED PROJECTS</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=600&color=00FFC8&center=true&vCenter=true&width=650&lines=Real+Projects+%7C+Business+Questions+%7C+Data-Driven+Insights" alt="Projects animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=720&lines=BUSINESS+QUESTIONS+%E2%80%A2+DATA+%E2%80%A2+INSIGHTS+%E2%80%A2+DECISIONS" alt="Projects animation"/>
 
 </div>
 
 <br/>
 
 
-<!-- PROJECT 1 -->
+<!-- PROJECT 01 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 🚚 Supply Chain Analytics — Cottonil
+## 🚚 01 — Supply Chain Analytics
 
-An end-to-end **Power BI supply chain analytics project** covering multiple areas of the business.
+### Cottonil
 
-### 🔎 Analysis Areas
+An end-to-end Power BI analytics project covering multiple areas of the supply chain and business performance.
 
-- Sales Analysis
-- Purchases Analysis
-- Inventory Analysis
-- Supplier Performance
-- Product Performance
-- Business Insights
-- Scenario / What-If Analysis
+**Analysis Areas**
 
-### 🛠️ Tools
+`Sales` · `Purchases` · `Inventory` · `Supplier Performance` · `Product Performance` · `Business Insights` · `What-If Analysis`
 
-**Power BI · Power Query · DAX**
+**Tools**
 
-### 💡 Focus
+`Power BI` · `Power Query` · `DAX`
 
-**Operational Visibility · Decision Support · Business Performance**
+**Focus**
+
+`Operational Visibility` · `Decision Support` · `Business Performance`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 2 -->
+<!-- PROJECT 02 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 👥 Customer Behavior Analysis
+## 👥 02 — Customer Behavior Analysis
 
-A customer-focused analytics project combining **SQL Server and Python/Jupyter** to explore customer data and build an analytical reporting story.
+A customer-focused analytics project combining SQL Server and Python/Jupyter to explore customer data and build an analytical reporting story.
 
-### 🔎 Focus
+**Focus Areas**
 
-- Customer Data Analysis
-- Behavioral Analysis
-- Data Exploration
-- SQL Analysis
-- Python-Based Analysis
+`Customer Data` · `Behavior Analysis` · `Data Exploration` · `SQL Analysis` · `Python Analysis`
 
-### 🛠️ Tools
+**Tools**
 
-**SQL Server · SQL · Python · Jupyter**
+`SQL Server` · `SQL` · `Python` · `Jupyter`
 
-### 💡 Focus
+**Focus**
 
-**Customer Segmentation · Behavior Patterns · Data Exploration**
+`Customer Segmentation` · `Behavior Patterns` · `Data Exploration`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 3 -->
+<!-- PROJECT 03 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 🌐 Web Scraping Projects
+## 🌐 03 — Web Scraping Projects
 
-A collection of web scraping projects focused on collecting structured information from websites.
+A collection of Python web scraping projects focused on collecting structured information from websites.
 
-### 🔎 Projects Include
+**Sources Include**
 
-- Amazon
-- Jumia
-- Other websites
+`Amazon` · `Jumia` · `Other Websites`
 
-### 🛠️ Tools
+**Tools**
 
-**Python · Requests · BeautifulSoup · Selenium**
+`Python` · `Requests` · `BeautifulSoup` · `Selenium`
 
-### 💡 Focus
+**Focus**
 
-**Automated Collection · Web Data Extraction · Structured Data**
+`Automated Collection` · `Web Data Extraction` · `Structured Data`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 4 -->
+<!-- PROJECT 04 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 👟 ADIDAS Sales Dashboard
+## 👟 04 — ADIDAS Sales Dashboard
 
-A one-page **Tableau sales dashboard** built using a 2021 sales dataset.
+A one-page Tableau dashboard built using a 2021 sales dataset.
 
-The project included data preparation and dashboard development with a focus on understanding sales performance and trends.
+The project included data preparation and dashboard development focused on sales performance and trends.
 
-### 🔎 Focus
+**Focus Areas**
 
-- Sales Performance
-- Trend Analysis
-- KPI Analysis
-- Interactive Filtering
+`Sales Performance` · `Trend Analysis` · `KPI Analysis` · `Interactive Filtering`
 
-### 🛠️ Tools
+**Tools**
 
-**Tableau · Power Query · Excel**
+`Tableau` · `Power Query` · `Excel`
 
-### 💡 Focus
+**Focus**
 
-**Sales Performance · Trend Analysis**
+`Sales Performance` · `Trend Analysis`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 5 -->
+<!-- PROJECT 05 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 🎬 Netflix Analysis Dashboard
+## 🎬 05 — Netflix Analysis Dashboard
 
-A dashboard project focused on analyzing the Netflix dataset and presenting the available content information through an interactive analytical view.
+An analytical dashboard project focused on exploring the Netflix dataset and presenting content information through an interactive analytical view.
 
-### 🛠️ Tools
+**Tools**
 
-**Tableau · Power Query · Excel**
+`Tableau` · `Power Query` · `Excel`
 
-### 💡 Focus
+**Focus**
 
-**Content Trends · Catalog Insights**
+`Content Trends` · `Catalog Insights`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 6 -->
+<!-- PROJECT 06 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 👥 HR Analysis Project
+## 👥 06 — HR Analysis Project
 
 An HR-focused analytics project designed to analyze workforce-related data and present meaningful performance insights.
 
-### 🛠️ Tools
+**Tools**
 
-**Excel · Power Query · VBA Macros · PivotTables**
+`Excel` · `Power Query` · `VBA Macros` · `PivotTables`
 
-### 💡 Focus
+**Focus**
 
-**Workforce Insights · Performance Analysis**
+`Workforce Insights` · `Performance Analysis`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 7 -->
+<!-- PROJECT 07 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## ☎️ Salla Call Center Analysis
+## ☎️ 07 — Salla Call Center Analysis
 
 A call-center analytics project focused on understanding operational performance and extracting insights from call-center data.
 
-### 🛠️ Tools
+**Tools**
 
-**Power BI · DAX · Data Modeling**
+`Power BI` · `DAX` · `Data Modeling`
 
-### 💡 Focus
+**Focus**
 
-**Service Performance · Operational Insights**
+`Service Performance` · `Operational Insights`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 8 -->
+<!-- PROJECT 08 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 🛋️ Sales Analysis Dashboard — Misuo Furniture
+## 🛋️ 08 — Sales Analysis Dashboard
+
+### Misuo Furniture
 
 A Power BI sales analysis project focused on understanding sales performance and business results.
 
-### 🛠️ Tools
+**Tools**
 
-**Power BI · DAX · Data Modeling**
+`Power BI` · `DAX` · `Data Modeling`
 
-### 💡 Focus
+**Focus**
 
-**Revenue Drivers · Sales Performance**
+`Revenue Drivers` · `Sales Performance`
 
 </td>
 </tr>
 </table>
 
 
-<!-- PROJECT 9 -->
+<!-- PROJECT 09 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 💰 Financial Analysis Dashboard
+## 💰 09 — Financial Analysis Dashboard
 
 A financial analytics dashboard project focused on presenting financial data through an organized analytical interface.
 
-### 🛠️ Tools
+**Focus**
 
-**Power BI / Python — according to the project version**
-
-### 💡 Focus
-
-**Financial Performance · Business Monitoring**
+`Financial Performance` · `Business Monitoring`
 
 </td>
 </tr>
@@ -599,21 +614,23 @@ A financial analytics dashboard project focused on presenting financial data thr
 
 <!-- PROJECT 10 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## 🐍 Customer Behavior Analysis — Python
+## 🐍 10 — Customer Behavior Analysis
+
+### Python
 
 A Python-based customer behavior analysis project focused on exploring customer data and extracting analytical patterns.
 
-### 🛠️ Tools
+**Tools**
 
-**Python · Pandas · Jupyter**
+`Python` · `Pandas` · `Jupyter`
 
-### 💡 Focus
+**Focus**
 
-**Behavior Patterns · Data Exploration**
+`Behavior Patterns` · `Data Exploration`
 
 </td>
 </tr>
@@ -622,105 +639,91 @@ A Python-based customer behavior analysis project focused on exploring customer 
 
 <!-- PROJECT 11 -->
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td>
 
-## ▶️ YouTube Analytics Dashboard
+## ▶️ 11 — YouTube Analytics Dashboard
 
 A dashboard project focused on analyzing YouTube-related performance data and presenting the results through an interactive reporting interface.
 
-### 🛠️ Tools
+**Tools**
 
-**Excel · VBA Macro · Power Query · PivotTables**
+`Excel` · `VBA Macro` · `Power Query` · `PivotTables`
 
-### 💡 Focus
+**Focus**
 
-**Channel Performance · Audience Insights**
+`Channel Performance` · `Audience Insights`
 
 </td>
 </tr>
 </table>
 
 
-<!-- ================================================================== -->
-<!-- PROJECT PORTFOLIO LINK -->
-<!-- ================================================================== -->
+<!-- ================================================================ -->
+<!-- SKILLS MATRIX -->
+<!-- ================================================================ -->
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:8B5CF6,50:38BDF8,100:00E5A8" width="100%"/>
+
+<h2 align="center">🧩 SKILLS MATRIX</h2>
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### 📊 BI & Visualization
+
+- Power BI
+- Tableau
+- Excel
+- DAX
+- Power Query
+- Dashboard Design
+- Data Visualization
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗄️ Data
+
+- SQL
+- SQL Server
+- Data Cleaning
+- Data Preparation
+- Data Modeling
+- Exploratory Analysis
+- KPI Analysis
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🐍 Python
+
+- Python
+- Pandas
+- NumPy
+- Jupyter
+- Data Analysis
+- Web Scraping
+- Data Extraction
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ================================================================ -->
+<!-- LANGUAGES -->
+<!-- ================================================================ -->
 
 <br/>
 
-<a href="https://github.com/YasserSalemElnakeb">
-<img src="https://img.shields.io/badge/Explore%20More%20Projects-00C896?style=for-the-badge&logo=github&logoColor=0F172A"/>
-</a>
-
-</div>
-
-
-<!-- ================================================================== -->
-<!-- CERTIFICATION -->
-<!-- ================================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:00FFC8&height=80&reversal=true" width="100%"/>
-
-<h2 align="center">🎓 Professional Training</h2>
-
-<div align="center">
-
-### 📊 Data Analysis Diploma
-
-**Mazen Analytics**
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 📚 Covered Topics
-
-- Statistics
-- Excel for Data Analysis
-- Business Basics
-- Tableau
-- Power BI
-- SQL for Data Analysis
-- Python for Data Analysis
-- Freelancing
-- n8n & Automation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 Practical Application
-
-The training was reinforced through practical analytical projects covering:
-
-- Sales
-- Supply Chain
-- Customer Behavior
-- HR
-- Finance
-- Call Center Analysis
-- Dashboards
-- Web Scraping
-
-</td>
-
-</tr>
-</table>
-
-
-<!-- ================================================================== -->
-<!-- LANGUAGES -->
-<!-- ================================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C896,100:0F172A&height=8" width="100%"/>
-
-<h2 align="center">🌍 Languages</h2>
+<h2 align="center">🌍 LANGUAGES</h2>
 
 <div align="center">
 
@@ -731,61 +734,63 @@ The training was reinforced through practical analytical projects covering:
 </div>
 
 
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 <!-- GITHUB ANALYTICS -->
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C896,100:0F172A&height=70&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:050816,50:8B5CF6,100:00E5A8" width="100%"/>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">📈 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasserSalemElnakeb&show_icons=true&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&icon_color=00C896&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YasserSalemElnakeb&show_icons=true&theme=dark&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=00E5A8&text_color=FFFFFF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserSalemElnakeb&layout=compact&theme=dark&hide_border=true&bg_color=151A28&title_color=00FFC8&text_color=FFFFFF" width="48%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=YasserSalemElnakeb&theme=dark&hide_border=true&background=151A28&stroke=00E5C3&ring=00C896&fire=00FFC8&currStreakLabel=00FFC8" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserSalemElnakeb&layout=compact&theme=dark&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=FFFFFF" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasserSalemElnakeb&theme=react-dark&bg_color=151A28&color=00FFC8&line=00C896&point=FFFFFF&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=YasserSalemElnakeb&theme=dark&hide_border=true&background=050816&stroke=38BDF8&ring=00E5A8&fire=8B5CF6&currStreakLabel=38BDF8" width="70%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YasserSalemElnakeb&label=Profile%20Views&color=00C896&style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasserSalemElnakeb&theme=react-dark&bg_color=050816&color=38BDF8&line=00E5A8&point=FFFFFF&hide_border=true" width="90%"/>
 
-<img src="https://img.shields.io/github/followers/YasserSalemElnakeb?label=Followers&style=for-the-badge&color=00E5C3&labelColor=151A28"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YasserSalemElnakeb&label=PROFILE%20VIEWS&color=00E5A8&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YasserSalemElnakeb?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=050816"/>
 
 </div>
 
 
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 <!-- CONTACT -->
-<!-- ================================================================== -->
+<!-- ================================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:00E5C3&height=70&reversal=true" width="100%"/>
+<br/>
 
-<h2 align="center">📬 Let's Connect</h2>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=85&color=0:00E5A8,50:38BDF8,100:050816" width="100%"/>
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=600&color=00E5C3&center=true&vCenter=true&width=500&lines=Open+to+Data+Analytics+Opportunities;Let's+Connect+%26+Build+Something+Meaningful" alt="Contact animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=00E5A8&center=true&vCenter=true&width=650&lines=Open+to+Data+Analytics+Opportunities;Let's+Connect+%26+Build+Something+Meaningful" alt="Contact animation"/>
 
 <br/><br/>
 
 <a href="https://github.com/YasserSalemElnakeb">
-<img src="https://img.shields.io/badge/GitHub-151A28?style=for-the-badge&logo=github&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237">
-<img src="https://img.shields.io/badge/LinkedIn-151A28?style=for-the-badge&logo=linkedin&logoColor=00C896"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="mailto:yassersalemelnakeb123@gmail.com">
-<img src="https://img.shields.io/badge/Email-151A28?style=for-the-badge&logo=gmail&logoColor=00E5C3"/>
+<img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00E5A8"/>
 </a>
 
 </div>
@@ -793,13 +798,19 @@ The training was reinforced through practical analytical projects covering:
 <br/>
 
 <div align="center">
+
+### 💡
 
 > **"Data becomes valuable when it helps people make better decisions."**
 
 <br/>
 
-**Designed & developed by Yasser Salem Elnakeb**
+**Yasser Salem Elnakeb**
+
+*Data Analyst*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:00C896&height=150&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:050816,45:071A2D,75:38BDF8,100:00E5A8" width="100%"/>
