@@ -21,9 +21,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/YasserSalemElnakeb">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<a href="https://yasser-salem.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Yasser%20Salem-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
 
 <a href="https://www.linkedin.com/in/yasser-salem-elnakeb-a2b519237">
 <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
